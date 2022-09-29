@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+nav{
+    display: flex;
+    background-color: #f9f9fA;
+    
+    height: 30.5em;
+    width: 9em;
+}
+ li{
+text-align: center;
+list-style: none;
+justify-content: space-around;
+
+}
+nav ul li{
+display: flex;
+
+justify-content: space-around;
+}
+.nave{
+    
+    margin-bottom: 20px;
+    justify-content: space-around;
+}
+.nave li{
+    justify-content: space-around;
+}
+ header{
+    display: flex;
+    right: auto;
+    justify-content: space-between;
+    border: solid;
+    height: 10em;
+    width: 4em;
+}
+
